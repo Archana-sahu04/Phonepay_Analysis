@@ -60,19 +60,8 @@ PhonePe-Transaction-Analysis/
 └── README.md
 ```
 
----
-
-## 📸 Dashboard Preview
 
 
-
-Example:
-
-```markdown
-
-## Dashboard Preview
-![Dashboard Preview](https://github.com/user-attachments/assets/ffe8f8f6-f237-49e5-9d84-aabb87538f3f)
-```
 
 ---
 
